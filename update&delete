@@ -1,5 +1,0 @@
-SELECT * FROM student;
-
-UPDATE student
-SET major = 'bio'
-WHERE major = 'Biology';
